@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Tata Consultancy Services.
+- 🔭 I’m currently working at Tata Consultancy Services.
 - 🌱 I’m currently learning Nodejs and SpringBoot.
 - 👯 I’m looking to collaborate on Javascript.
 - 🤔 I’m looking for help with Rails on Ruby.
