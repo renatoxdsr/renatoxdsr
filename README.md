@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Rails on Ruby.
 - 💬 Ask me about HTML, CSS, PHP, Javascript, TypeScript, Json, OOP, UX/UI Principles or any tech related stuff.
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I like to read biographic books and cook different cousines. 
+- ⚡ Fun fact: I like to read biographic books and watch videos about different cousines. 
 
 <div>
   <a href="https://github.com/renatoxdsr">
