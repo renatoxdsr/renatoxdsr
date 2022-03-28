@@ -33,5 +33,5 @@ Here are some ideas to get you started:
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
  <a href="https://medium.com/@renatoxavier-ds" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/renatoxavierinternational" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://komarev.com/ghpvc/?username=rpradosilva&label=Views&style=flat-square&color=4A6AD9" target="_blank">  
+ <a href="" target="_blank"><img src="https://komarev.com/ghpvc/?username=renatoxdsr&label=Views&style=flat-square&color=4A6AD9" target="_blank">  
 </div>
