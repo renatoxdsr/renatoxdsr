@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Nodejs and SpringBoot.
 - 👯 I’m looking to collaborate on Javascript.
 - 🤔 I’m looking for help with Rails on Ruby.
-- 💬 Ask me about HTML, CSS, PHP, Javascript, TypeScript, Json, OOP, UX/UI Principles or any tech related stuff.
+- 💬 Ask me about HTML, CSS, PHP, Javascript, TypeScript, Json, OOP, SQL, UX/UI Principles or any tech related stuff.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I like to read biographic books and watch videos about different cousines. 
 
