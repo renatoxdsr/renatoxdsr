@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-    <a href="https://github.com/renatoxdsr">
+    <!--<a href="https://github.com/renatoxdsr">--->
     <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?      username=renatoxdsr&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>-->
     <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=renatoxdsr&show_icons=true&theme=dark&line_height=27" alt="Renato Xavier    Github Stats"/>  
 </details>
