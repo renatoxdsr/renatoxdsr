@@ -11,12 +11,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I like to read biographic books and watch videos about different cousines. 
 
-<div>
-  <a href="https://github.com/renatoxdsr">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatoxdsr&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>-->
-  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=renatoxdsr&show_icons=true&theme=dark&line_height=27" alt="Renato Xavier Github Stats"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoxdsr&layout=compact&langs_count=7&theme=neonblue"/>
-</div>   
+<details>
+  <summary>:zap: GitHub Stats</summary>
+    <a href="https://github.com/renatoxdsr">
+    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?      username=renatoxdsr&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>-->
+    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=renatoxdsr&show_icons=true&theme=dark&line_height=27" alt="Renato Xavier    Github Stats"/>  
+</details>
+  
+<details>
+  <summary>:zap: Main Used Languages</summary>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoxdsr&layout=compact&langs_count=7&theme=neonblue"/>
+</details> 
+  
 <div style="display: inline_block"> <br>
   <img align="center" alt="Renato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
